@@ -1,4 +1,6 @@
 Denetimsiz Öğrenme makineye etiketsiz veriler vererek bunlardan kendi başına bir sonuç çıkarmasını sağlamaktır. Burada makine herhangi bir ek bilgiye sahip 
 değildir ve her şeyi kendi başına yapar. Tabi burada yanlış sonuç verme ihtimali de vardır. Denetimsiz öğrenmede kullanılan bazı algoritmalar vardır. Bunları biraz 
 inceleyelim. İlişkilendirme algoritmasıyla başlayalım. Adından da belli olduğu üzere veriler arasında ilişki kurmaya çalışır. veriler arasında benzerlikler, 
-korelasyonlar incelenir. İkinci algoritma ise kümelemedir. İlişkiler ortaya çıkarıldıktan sonra benzer veriler kümeler oluştururlar. 
+korelasyonlar incelenir. İkinci algoritma ise kümelemedir. Kümeleme İlişkilendirmeden farklıdır. Veriler arasında benzerlik ve farklılıkları araştırarak çeşitli 
+kümeler oluşturur. Gözetimsiz öğrenme bir çok veri etiketsiz olduğu için oldukça avantajlı olmakla birlikte sonuçların belirsizliği ve sonuca nasıl ulaşıldığının 
+bilinememe ihtimalinin olması dezavantajlar da yaratmaktadır
